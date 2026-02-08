@@ -99,7 +99,7 @@ Dự án được xây dựng dựa trên kiến trúc **MVVM** và **Clean Arch
 
 ## Cài đặt và chạy thử
 
-1.  **Clone repository:** `git clone https://github.com/your-username/chronos-flutter.git`
+1.  **Clone repository:** `git clone https://github.com/Duong-mission/chronos-flutter.git`
 2.  **Cài đặt dependencies:** `flutter pub get`
 3.  **Cấu hình API Key:** Cập nhật key trong `lib/core/constants/app_keys.dart`.
 4.  **Chạy ứng dụng:** `flutter run`
